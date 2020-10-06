@@ -4,6 +4,8 @@
 
 **Profesor:** Francisco Velasco Anguita
 
+**Curso:** 19/20
+
 ---
 
 ## Temario
